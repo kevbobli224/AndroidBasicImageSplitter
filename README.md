@@ -1,2 +1,2 @@
 # AndroidBasicImageSplitter
-Splits your image.
+Splits your image based on input row and columns.
